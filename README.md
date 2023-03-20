@@ -25,8 +25,8 @@ moveStack in Movebank format
 ### Artefacts
 `turnAngle_histogram.pdf`: PDF with histograms of the turning angles per individual
 
-### Parameters
-no parameters 
+### Settings
+no settings 
 
 ### Null or error handling
 **Data**: The full input dataset with the addition of turning angles is returned for further use in a next App and cannot be empty.
