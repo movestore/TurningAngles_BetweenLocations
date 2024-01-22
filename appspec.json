@@ -31,6 +31,9 @@
       },
       {
         "name": "units"
+      },
+      {
+        "name":"lwgeom"
       }
     ]
   },

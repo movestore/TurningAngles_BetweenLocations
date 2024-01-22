@@ -2,6 +2,7 @@ library('move2')
 library("ggplot2")
 library("sf")
 library("units")
+library("lwgeom")
 
 rFunction <-  function(data, setunits){
   
